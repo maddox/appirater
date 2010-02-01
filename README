@@ -7,7 +7,7 @@ homepage: http://arashpayan.com/blog/index.php/2009/09/07/presenting-appirater/
 
 Getting Started
 ---------------
-Add the Appirater code into your project and call [Appirater appLaunched] at the end of
+Add the SystemConfiguration framework to your app. Add the Appirater code into your project and call [Appirater appLaunched] at the end of
 your app delegate's application:didFinishLaunchingWithOptions: method. Finally, set the
 APPIRATER_APP_ID in Appirater.h to your Apple provided software id.
 
